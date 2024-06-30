@@ -1,0 +1,59 @@
+(py38) C:\Users\admin\Desktop\envs>python convertMP3.py
+Time:  0.525
+Time:  0.3100967
+Time:  0.3869212999999999
+Time:  0.2229344000000002
+Time:  0.6762480000000002
+Time:  0.16823580000000016
+Time:  0.18384
+Time:  0.24850569999999994
+Time:  0.1523254999999999
+Time:  0.26932170000000033
+
+(py38) C:\Users\admin\Desktop\envs>python convertMP3.py
+./ver1/BabyElephantWalk60.mp3
+Time:  0.5388098
+./ver1/ballad.mp3
+Time:  0.2900632000000001
+./ver1/file_example_WAV_2MG.mp3
+Time:  0.3484004999999999
+./ver1/gettysburg.mp3
+Time:  0.22754280000000016
+./ver1/M1F1-float32-AFsp.mp3
+Time:  0.2161525000000002
+./ver1/nsa_f4.mp3
+Time:  0.15896329999999992
+./ver1/preamble10.mp3
+Time:  0.16348110000000027
+./ver1/sample2.mp3
+Time:  0.22133530000000023
+./ver1/smoking.mp3
+Time:  0.3328264000000001
+./ver1/taunt.mp3
+Time:  0.10837300000000027
+./ver1/test_24k.mp3
+Time:  0.23446180000000005
+
+(py38) C:\Users\admin\Desktop\envs>python convertFLAC.py
+./ver1/BabyElephantWalk60.flac
+Time:  0.1420031
+./ver1/ballad.flac
+Time:  0.11211580000000002
+./ver1/file_example_WAV_2MG.flac
+Time:  0.14291589999999998
+./ver1/gettysburg.flac
+Time:  0.09957169999999999
+./ver1/M1F1-float32-AFsp.flac
+Time:  0.211735
+./ver1/nsa_f4.flac
+Time:  0.09891479999999997
+./ver1/preamble10.flac
+Time:  0.0996570000000001
+./ver1/sample2.flac
+Time:  0.13151990000000002
+./ver1/smoking.flac
+Time:  0.13240249999999998
+./ver1/taunt.flac
+Time:  0.09657779999999994
+./ver1/test_24k.flac
+Time:  0.18574000000000002
